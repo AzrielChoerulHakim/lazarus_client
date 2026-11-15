@@ -1,0 +1,9 @@
+# Source CVs, original photo archives and private client material are not public build assets.
+*.pdf
+*.zip
+*.jpg
+*.jpeg
+*.heic
+.DS_Store
+node_modules/
+qa/
